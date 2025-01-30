@@ -11,7 +11,10 @@ public class HW3 {
 			System.out.println (A);
 			System.out.println (B);
 
-			
+			String C = "Lion";
+			String D = "Cat";
+			System.out.println (C);
+			System.out.println (D);
 			
 		}
 	
